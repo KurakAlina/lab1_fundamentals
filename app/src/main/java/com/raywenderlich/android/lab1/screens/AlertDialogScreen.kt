@@ -1,6 +1,5 @@
 package com.raywenderlich.android.lab1.screens
 
-import android.app.AlertDialog
 import androidx.compose.material.AlertDialog
 import androidx.compose.material.Button
 import androidx.compose.material.ButtonDefaults
